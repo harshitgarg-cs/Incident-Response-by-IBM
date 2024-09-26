@@ -3,8 +3,8 @@
 ## Summary
 The following IP addresses were flagged for suspicious activity:
 
-|SNO| IP Addresses | Suspicion Level | Activity Notes |
-|---|--------------|-----------------|----------------|
+IP Addresses | Suspicion Level | Activity Notes |
+|--------------|-----------------|----------------|
 31.203.135.126
 15.162.149.54
 57.130.209.217
