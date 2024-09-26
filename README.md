@@ -17,3 +17,14 @@ The project involved simulating a real-world incident response scenario for Mave
 2. **Containment and Eradication Strategy:** A comprehensive plan for isolating affected systems and removing malicious components from the environment.
 
 3. **Post-Incident Review Report:** A final report summarizing the incident, the response actions taken, and key learnings for future prevention.
+
+## Key Features
+1. **Incident Detection and Response:** Identification of security alerts and analysis of the incident to assess the potential impact on Maven Clinic.
+2. **Containment and Eradication:** Proposed steps for isolating and removing the threat from affected systems.
+3. **Reporting and Documentation:** Clear and concise communication of incident findings and the response strategy.
+4. **Collaboration:** Worked in a team setting, guided by expert coaches in cybersecurity, including Samy Anand (Cybersecurity Analyst and Incident Response Specialist).
+
+## Technologies & Frameworks
+1. **NIST Incident Respone Process Framework**
+2. **Post-Incident Reporting Tools**
+3. **Team Collaboration Tools: Slack, Airmeet**
