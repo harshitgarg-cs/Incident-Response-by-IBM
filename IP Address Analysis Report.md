@@ -5,7 +5,7 @@ The following IP addresses were flagged for suspicious activity:
 
 | IP Addresses | Country | Suspicion Level | Activity Notes |
 |--------------|---------|-------|----------------|
-31.203.135.126
+31.203.135.126 | Kuwait | 0 | None
 15.162.149.54
 57.130.209.217
 158.131.15.9
