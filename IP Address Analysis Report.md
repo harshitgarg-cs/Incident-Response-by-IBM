@@ -5,7 +5,6 @@ The following IP addresses were flagged for suspicious activity:
 
 |SNO| IP Addresses | Suspicion Level | Activity Notes |
 |---|--------------|-----------------|----------------|
-|1  | 47.52.42.248
 115.89.173.211
 0.207.83.32
 214.49.245.55
