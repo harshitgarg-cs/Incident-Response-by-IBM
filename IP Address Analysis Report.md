@@ -35,8 +35,3 @@ For abuse reports, please contact:
 
 ### Remarks:
 The detection from CRDF indicates that further monitoring or blocking might be necessary, especially if this IP is associated with suspicious activities. However, given the clean verdict from most other security vendors, it is advised to keep an eye on any further activity before taking action.
-
----
-
-## VirusTotal Screenshot:
-![Screenshot]([path/to/screenshot.png](https://github.com/harshitgarg-cs/Incident-Response-by-IBM/blob/main/virustotal.png))
