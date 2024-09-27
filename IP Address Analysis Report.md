@@ -4,8 +4,8 @@
 The following IP addresses were flagged for suspicious activity:
 
 | IP Addresses | Country | Suspicion Level | Activity Notes |
-|--------------|---------|-------|----------------|
-117.80.77.27 | Malicious
+|--------------|---------|-----------------|----------------|
+117.80.77.27 | China     |   
 117.226.106.217
 144.152.83.13
 178.116.144.99
