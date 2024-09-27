@@ -39,4 +39,4 @@ The detection from CRDF indicates that further monitoring or blocking might be n
 ---
 
 ## VirusTotal Screenshot:
-![]([path/to/screenshot.png](https://github.com/harshitgarg-cs/Incident-Response-by-IBM/blob/main/virustotal.png))
+![Screenshot]([path/to/screenshot.png](https://github.com/harshitgarg-cs/Incident-Response-by-IBM/blob/main/virustotal.png))
