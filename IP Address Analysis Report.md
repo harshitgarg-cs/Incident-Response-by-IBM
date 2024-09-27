@@ -6,7 +6,6 @@ The following IP addresses were flagged for suspicious activity:
 | IP Addresses | Country | Suspicion Level | Activity Notes |
 |--------------|---------|-------|----------------|
 117.80.77.27 | Malicious
-
 21.14.199.204
 99.101.206.194
 111.64.203.113
