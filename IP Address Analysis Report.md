@@ -47,7 +47,7 @@ The following IP addresses were flagged for suspicious activity:
 9.130.84.96
 194.21.100.25
 134.237.134.32
-117.80.77.27
+117.80.77.27 | Malicious
 165.202.226.130
 99.217.248.98
 134.80.86.191
