@@ -39,7 +39,4 @@ The detection from CRDF indicates that further monitoring or blocking might be n
 ---
 
 ## VirusTotal Screenshot:
-![](path/to/screenshot.png) <!-- Add path if you want to include the screenshot in the repository -->
 
-## Source:
-This report is generated based on VirusTotal analysis. [Link to VirusTotal report](https://www.virustotal.com) <!-- Replace with actual link if available -->
